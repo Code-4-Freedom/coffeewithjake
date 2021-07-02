@@ -3,12 +3,58 @@
     <title>Coffee With Jake</title>
     <link href="https://www.coffeewithjake.com/feed.xml" rel="self" />
     <link href="https://www.coffeewithjake.com" />
-    <updated>2021-07-02T09:52:04-07:00</updated>
+    <updated>2021-07-02T10:43:18-07:00</updated>
     <author>
         <name>Jake</name>
     </author>
     <id>https://www.coffeewithjake.com</id>
 
+    <entry>
+        <title>Today&#x27;s Tech</title>
+        <author>
+            <name>Jake</name>
+        </author>
+        <link href="https://www.coffeewithjake.com/today-on-censorship.html"/>
+        <id>https://www.coffeewithjake.com/today-on-censorship.html</id>
+            <category term="Technology"/>
+            <category term="Politics"/>
+            <category term="Censorship"/>
+
+        <updated>2021-07-02T10:43:18-07:00</updated>
+            <summary>
+                <![CDATA[
+                     Gettr has been "quietly" released on the Apple and Google Play stores. I say "quietly" because so many media sites have reported on it. Gettr is a new, unbiased social networking created by Jason Miller, a former adviser to former president Trump. Gettr operates&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="gettr-has-been-quietly-released-on-the-apple-and-google-play-stores">
+      Gettr has been "quietly" released on the Apple and Google Play stores.
+    </h2>
+
+  <p>
+    I say "quietly" because so many media sites have reported on it. Gettr is a new, unbiased social networking created by Jason Miller, a former adviser to former president Trump. Gettr operates like twitter and has a vibe similar to Minds. Gettr is definitely different from Parler and I believe you should check it out!&nbsp;
+  </p>
+
+  <p>
+    <a href="https://gettr.com/" target="_blank" rel="nofollow noopener">Gettr</a>
+  </p>
+
+    <h2 id="facebook-warns-users-about-extremists">
+      Facebook warns users about "extremists."
+    </h2>
+
+  <p>
+    Facebook has begun warning users when the platform believes they have been exposed to an "extremist" or to "harmful content" and encourages users to "get support."
+  </p>
+
+  <p>
+    Read more on <a href="https://www.foxnews.com/media/facebook-warns-users-have-been-exposed-harmful-extremists" target="_blank" rel="nofollow noopener">Foxnews</a>.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Doubt: What&#x27;s Wrong with It?</title>
         <author>
@@ -16,8 +62,9 @@
         </author>
         <link href="https://www.coffeewithjake.com/doubt-whats-wrong-with-it.html"/>
         <id>https://www.coffeewithjake.com/doubt-whats-wrong-with-it.html</id>
+            <category term="Faith"/>
 
-        <updated>2021-07-02T09:52:04-07:00</updated>
+        <updated>2021-07-02T10:33:43-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.coffeewithjake.com/media/posts/1/doubt.webp" alt="" />

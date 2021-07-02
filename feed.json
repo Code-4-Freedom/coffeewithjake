@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://www.coffeewithjake.com/today-on-censorship.html",
+            "url": "https://www.coffeewithjake.com/today-on-censorship.html",
+            "title": "Today&#x27;s Tech",
+            "summary": " Gettr has been \"quietly\" released on the Apple and Google Play stores. I say \"quietly\" because so many media sites have reported on it. Gettr is a new, unbiased social networking created by Jason Miller, a former adviser to former president Trump. Gettr operates&hellip;",
+            "content_html": "\n    <h2 id=\"gettr-has-been-quietly-released-on-the-apple-and-google-play-stores\">\n      Gettr has been \"quietly\" released on the Apple and Google Play stores.\n    </h2>\n\n  <p>\n    I say \"quietly\" because so many media sites have reported on it. Gettr is a new, unbiased social networking created by Jason Miller, a former adviser to former president Trump. Gettr operates like twitter and has a vibe similar to Minds. Gettr is definitely different from Parler and I believe you should check it out!&nbsp;\n  </p>\n\n  <p>\n    <a href=\"https://gettr.com/\" target=\"_blank\" rel=\"nofollow noopener\">Gettr</a>\n  </p>\n\n    <h2 id=\"facebook-warns-users-about-extremists\">\n      Facebook warns users about \"extremists.\"\n    </h2>\n\n  <p>\n    Facebook has begun warning users when the platform believes they have been exposed to an \"extremist\" or to \"harmful content\" and encourages users to \"get support.\"\n  </p>\n\n  <p>\n    Read more on <a href=\"https://www.foxnews.com/media/facebook-warns-users-have-been-exposed-harmful-extremists\" target=\"_blank\" rel=\"nofollow noopener\">Foxnews</a>.\n  </p>",
+            "author": {
+                "name": "Jake"
+            },
+            "tags": [
+                   "Technology",
+                   "Politics",
+                   "Censorship"
+            ],
+            "date_published": "2021-07-02T10:42:08-07:00",
+            "date_modified": "2021-07-02T10:43:18-07:00"
+        },
+        {
             "id": "https://www.coffeewithjake.com/doubt-whats-wrong-with-it.html",
             "url": "https://www.coffeewithjake.com/doubt-whats-wrong-with-it.html",
             "title": "Doubt: What&#x27;s Wrong with It?",
@@ -21,9 +38,10 @@
                 "name": "Jake"
             },
             "tags": [
+                   "Faith"
             ],
             "date_published": "2021-07-02T09:46:27-07:00",
-            "date_modified": "2021-07-02T09:52:04-07:00"
+            "date_modified": "2021-07-02T10:33:43-07:00"
         }
     ]
 }
