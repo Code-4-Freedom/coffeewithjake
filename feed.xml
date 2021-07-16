@@ -3,12 +3,94 @@
     <title>Coffee With Jake</title>
     <link href="https://www.coffeewithjake.com/feed.xml" rel="self" />
     <link href="https://www.coffeewithjake.com" />
-    <updated>2021-07-02T10:43:18-07:00</updated>
+    <updated>2021-07-16T10:50:32-07:00</updated>
     <author>
         <name>Jake</name>
     </author>
     <id>https://www.coffeewithjake.com</id>
 
+    <entry>
+        <title>California COVID-19 Spending</title>
+        <author>
+            <name>Jake</name>
+        </author>
+        <link href="https://www.coffeewithjake.com/california-covid-19-spending.html"/>
+        <id>https://www.coffeewithjake.com/california-covid-19-spending.html</id>
+            <category term="Politics"/>
+            <category term="Opinion"/>
+            <category term="If I were..."/>
+            <category term="If I were in politics"/>
+            <category term="Hypothetical"/>
+
+        <updated>2021-07-16T10:50:32-07:00</updated>
+            <summary>
+                <![CDATA[
+                     If I were in politics... Specifically if I was the governor of California*. I would have prioritized hospital preparedness over vaccination encouragement. What I mean by hospital preparedness is insuring that the hospitals had enough of the needed resources to treat individuals with COVID-19&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    If I were in politics...
+  </p>
+
+  <p>
+    Specifically if I was the governor of California*.
+  </p>
+
+  <p>
+    I would have prioritized hospital preparedness over vaccination encouragement.
+  </p>
+
+  <p>
+    What I mean by hospital preparedness is insuring that the hospitals had enough of the needed resources to treat individuals with COVID-19 like Hydroxycholoquine and ventilators.&nbsp;Hydroxycholoquine costs (on average) $148.95 (retail) and ventilators cost between $20,000 and $50,000 (For this post we are just going to assume the average cost of $35,000).&nbsp;
+  </p>
+
+  <p>
+    Let's say the money spent on the vaccine lottery and given illegally to illegal immigrants was spent on hospital resources, that would give us a budget of approximately $191,000,000. With this money, we could purchase 1,275,595 doses of&nbsp;Hydroxycholoquine with $1,000,000 devoted to delivery costs or 5,428 ventilators (Once again with a $1,000,000 budget for delivering the units). The money could also be split between the two.&nbsp;
+  </p>
+
+  <p>
+    However, the point is that the money spent illegally on people who are not here legally and on a lottery could have been spent in better ways to help provide better treatment for the people of California and be prepared for any future flare ups of the disease. With any disease, there are flare ups, or hills and valleys. Being prepared for the next hill should be a priority, and a vaccine does not do not. The vaccine has been proven to not protect the vaccinated from contacting the disease post receiving the vaccine, that and it is not FDA approved. The government should not encourage the use of a drug that is not FDA approved.
+  </p>
+
+    <h2 id="sources">
+      Sources:
+    </h2>
+
+  <p>
+    What is a ventilator? How much does one cost? (2020, March 23). Silive. https://www.silive.com/coronavirus/2020/03/what-is-a-ventilator-how-much-does-one-cost.html<br>
+  </p>
+
+  <p>
+    Hydroxychloroquine Prices, Coupons &amp; Savings Tips. (n.d.). GoodRx. Retrieved July 16, 2021, from https://www.goodrx.com/hydroxychloroquine<br>
+  </p>
+
+  <p>
+    Press, A. (n.d.). California to give 150,000 undocumented immigrants $500 coronavirus aid payments. MarketWatch. Retrieved July 16, 2021, from https://www.marketwatch.com/story/california-to-give-150000-undocumented-immigrants-500-coronavirus-aid-payments-2020-04-15<br>
+  </p>
+
+  <p>
+    California giving $116 million to people who get virus shots. (n.d.). Retrieved July 16, 2021, from https://news.yahoo.com/california-offer-116m-coronavirus-vaccine-210408708.html<br>
+  </p>
+
+  <p>
+    Are COVID Vaccines FDA Approved? Here’s the Latest. NBC Chicago. Retrieved July 16, 2021, from https://www.nbcchicago.com/news/coronavirus/are-covid-vaccines-fda-approved-heres-the-latest/2549097/<br>
+  </p>
+
+  <p>
+    *THIS IS A HYPOTHETICAL. THIS IS NOT A DECLARATION OF INTENT TO RUN FOR ANY POLITICAL POSITION.
+  </p>
+<div>  <center width="100%"><embed height="450mm" src="https://source.borgcreative.com/bct/mk2-bar-3.html" width="60%"></center>
+</div>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Today&#x27;s Tech</title>
         <author>
