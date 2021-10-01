@@ -3,12 +3,47 @@
     <title>Coffee With Jake</title>
     <link href="https://www.coffeewithjake.com/feed.xml" rel="self" />
     <link href="https://www.coffeewithjake.com" />
-    <updated>2021-07-21T09:06:05-07:00</updated>
+    <updated>2021-09-30T17:53:53-07:00</updated>
     <author>
         <name>Jake</name>
     </author>
     <id>https://www.coffeewithjake.com</id>
 
+    <entry>
+        <title>WOW!</title>
+        <author>
+            <name>Jake</name>
+        </author>
+        <link href="https://www.coffeewithjake.com/wow.html"/>
+        <id>https://www.coffeewithjake.com/wow.html</id>
+
+        <updated>2021-09-30T17:53:53-07:00</updated>
+            <summary>
+                <![CDATA[
+                     When I started with blog (and the associated social pages), I never thought it would go anywhere. I solely intended them to just be a way for me to speak my opinions and not have haters come onto my personal pages. However, this blog&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    When I started with blog (and the associated social pages), I never thought it would go anywhere. I solely intended them to just be a way for me to speak my opinions and not have haters come onto my personal pages.
+  </p>
+
+  <p>
+    However, this blog and the social accounts now have...
+  </p>
+
+    <h2 id="1278-followers">
+      1,278 followers!!!
+    </h2>
+
+  <p>
+    I just want to say thank you to all who follow! I promise I will start being a little more consistant with my posting!
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Biden&#x27;s 6 Months</title>
         <author>
