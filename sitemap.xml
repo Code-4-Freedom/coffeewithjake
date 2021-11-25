@@ -1,50 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://www.coffeewithjake.com/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url>
-<loc>https://www.coffeewithjake.com/</loc>
-</url>
-<url>
-<loc>https://www.coffeewithjake.com/bidens-6-months.html</loc>
-<lastmod>2021-07-21T09:06:05-07:00</lastmod>
-<image:image>
-<image:loc>https://www.coffeewithjake.com/media/posts/4/dave-sherrill-48elRjHbXRY-unsplash.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://www.coffeewithjake.com/coffee-with-jake-episode-3-facts-and-figures-1.html</loc>
-<lastmod>2021-11-22T15:53:56-07:00</lastmod>
-</url>
-<url>
-<loc>https://www.coffeewithjake.com/coffee-with-jake-episode-4-privacy-and-the-verdict-opinion.html</loc>
-<lastmod>2021-11-22T17:52:44-07:00</lastmod>
-</url>
-<url>
-<loc>https://www.coffeewithjake.com/doubt-whats-wrong-with-it.html</loc>
-<lastmod>2021-07-02T10:33:43-07:00</lastmod>
-<image:image>
-<image:loc>https://www.coffeewithjake.com/media/posts/1/doubt.webp</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://www.coffeewithjake.com/if-i-were-2-if-i-were-writing-the-us-governments-budget.html</loc>
-<lastmod>2021-11-05T10:42:49-07:00</lastmod>
-</url>
-<url>
-<loc>https://www.coffeewithjake.com/page/2/</loc>
-</url>
-<url>
-<loc>https://www.coffeewithjake.com/the-problematic-mandate.html</loc>
-<lastmod>2021-11-05T10:46:29-07:00</lastmod>
-</url>
-<url>
-<loc>https://www.coffeewithjake.com/today-on-censorship.html</loc>
-<lastmod>2021-07-02T10:43:18-07:00</lastmod>
-</url>
-<url>
-<loc>https://www.coffeewithjake.com/wow.html</loc>
-<lastmod>2021-09-30T17:57:14-07:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>/data/ff1.html</loc>
+    </url>
+    <url>
+        <loc>/data/ff2.html</loc>
+    </url>
+    <url>
+        <loc>/posts/problematicmandate-11-5-2021.html</loc>
+    </url>
+    <url>
+        <loc>/about.html</loc>
+    </url>
+    <url>
+        <loc>/data.html</loc>
+    </url>
+    <url>
+        <loc>/index.html</loc>
+    </url>
+    <url>
+        <loc>/privacy.html</loc>
+    </url>
 </urlset>
